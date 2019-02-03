@@ -1,0 +1,60 @@
+
+body {
+
+	background-image: url(rose.jpg);
+	background-size: cover;
+}
+
+
+.navbar ul li a {
+margin-top: 20px;
+padding-right: 30px !important;
+padding-left: 30px !important; 
+transition: all 1s;
+
+}
+.navbar-brand {
+
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: 'EB Garamond', serif;
+	color: #FFE38B;
+    font-size: 22px;
+
+   
+}
+ 
+.nav-item{
+    display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: 'EB Garamond', serif;;
+	color: #FFE38B;
+    font-size: 22px;
+
+}
+.btn{
+	 background-color:#FFE38B;
+	 color: black;
+	 margin-top: 250px;
+	 top: 50%;
+	 left:50%; 
+     width:150px; 
+    margin-left:-75px;
+	position:absolute;  
+  
+}
+h1 {
+	color: #FFE38B;
+	text-align: center;
+    font-family: 'EB Garamond', serif;
+	font-size: 180%;
+	margin-top: 80px;
+	box-shadow: 1px 0px 5px #888888;
+	border-bottom: 5px;
+	list-style-position: outside;
+
+
+}
